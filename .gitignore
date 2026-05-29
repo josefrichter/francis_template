@@ -24,3 +24,6 @@ francis_template-*.tar
 
 # Dialyzer PLT files (built locally / in CI).
 /priv/plts/
+
+# Local environment variables (e.g. HEX_API_KEY). Never commit.
+/.env
