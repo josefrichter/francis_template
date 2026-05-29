@@ -10,7 +10,7 @@ templates from **separate files** on disk, wrapping them in **layouts**, and
 choosing the renderer by file extension so you can swap in **other engines**
 (e.g. Liquid via [Solid](https://hex.pm/packages/solid)).
 
-It depends only on `francis` — no `phoenix_html`, no heavy view layer.
+It depends only on `francis` — no `phoenix_html`.
 
 ## Installation
 
