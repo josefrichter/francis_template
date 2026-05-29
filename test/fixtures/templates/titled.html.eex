@@ -1,0 +1,1 @@
+<title><%= @name %></title><main><%= @inner_content %></main>
